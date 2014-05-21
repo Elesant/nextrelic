@@ -371,7 +371,7 @@ blockquote {
   text-transform: uppercase;
 }
 .cbp-af-header {
-  position: fixed;
+  position: absolute;
   top: 0;
   left: 0;
   width: 100%;
@@ -679,7 +679,7 @@ section .login-overlay {
   cursor: url(../img/grabbing.png) 8 8, move;
 }
 /*
-*   Owl Carousel Owl Demo Theme 
+*   Owl Carousel Owl Demo Theme
 * v1.3.2
 */
 .owl-theme-main .owl-controls .owl-page.active span,
@@ -2028,6 +2028,7 @@ footer.footer {
   background: #2b2d35;
   padding: 5em 0;
   color: white;
+  border-top: #24242C 3px solid;
 }
 footer.footer .footer-logo {
   padding: 0 1em;
