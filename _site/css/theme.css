@@ -1850,7 +1850,7 @@ section .overlay-text {
   text-decoration: none;
 }
 .grid figcaption a.preview {
-  left: 38%;
+  left: 45%;
 }
 .grid figcaption a.link {
   right: 38%;
